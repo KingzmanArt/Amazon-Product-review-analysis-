@@ -59,4 +59,4 @@ See full breakdown in [`docs/insights.md`](docs/insights.md)
 
 ## Contact
 
-Feel free to fork or reach out via [LinkedIn](https://www.linkedin.com/in/kingsleyoghenekaro?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app) or [email](kingsleyomodigono02@gmail.com) for collaboration.
+Feel free to fork or reach out via [LinkedIn](https://www.linkedin.com/in/kingsleyoghenekaro?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app) or [email](omleysplufic@gmail.com) for collaboration.
