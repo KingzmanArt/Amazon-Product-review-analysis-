@@ -23,7 +23,16 @@ This project analyzes Amazon product data to uncover trends in pricing, discount
 1. Average discount % by category  
 2. Product count per category  
 3. Total number of reviews per category  
-...  
+4. Products with highest average ratings
+5. Average actual price vs discounted price by category
+6. Products with the highest number of reviews
+7. Products with 50% discount or more
+8. Distribution of product rating
+9. Total potential revenue by category
+10. Number of unique products per price range
+11. Relationship between rating and level of discount
+12. Products woth less than 1000 reviews
+13. Categories of products with the highest discounts
 14. Top 5 products by combined rating × reviews
 
 See full breakdown in [`docs/insights.md`](docs/insights.md)
@@ -48,12 +57,6 @@ See full breakdown in [`docs/insights.md`](docs/insights.md)
 - Microsoft Excel (Pivot Tables, Charts, Dashboard)
 - Git & GitHub for version control and collaboration
 
-## Next Steps
-
-- Integrate Power BI or Tableau
-- Perform sentiment analysis on review content
-- Automate report generation
-
 ## Contact
 
-Feel free to fork or reach out via [LinkedIn](https://www.linkedin.com/in/kingsleyoghenekaro?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app) or [email](www.kingsleyomodigono02@gmail.com) for collaboration.
+Feel free to fork or reach out via [LinkedIn](https://www.linkedin.com/in/kingsleyoghenekaro?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app) or [email](kingsleyomodigono02@gmail.com) for collaboration.
