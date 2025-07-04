@@ -1,4 +1,4 @@
-# Amazon-Product-Review-analysis-
+n# Amazon-Product-Review-analysis-
 
 This project analyzes Amazon product data to uncover trends in pricing, discounts, ratings, and reviews. The goal is to build an interactive Excel dashboard for business stakeholders to identify top performing products and evaluate pricing strategies.
 
@@ -83,6 +83,12 @@ Analysis was carried out using PivotTables and dynamic charts in Excel. The dash
 
 
 ## Dashboard Preview
+
+![17516670135393921785962235320444](https://github.com/user-attachments/assets/d286d4e7-bf08-4301-9a6f-3af2d2508b6d)
+
+
+
+
 
 
 ## Observations and Insights
