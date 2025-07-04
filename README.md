@@ -1,6 +1,6 @@
 # Amazon-Product-Review-analysis-
 
-This project analyzes Amazon product data to uncover trends in pricing, discounts, ratings, and reviews. The goal is to build an interactive Excel dashboard for business stakeholders to identify top-performing products and evaluate pricing strategies.
+This project analyzes Amazon product data to uncover trends in pricing, discounts, ratings, and reviews. The goal is to build an interactive Excel dashboard for business stakeholders to identify top performing products and evaluate pricing strategies.
 
 ## Objectives
 
@@ -8,6 +8,18 @@ This project analyzes Amazon product data to uncover trends in pricing, discount
 - Identify top-rated and most-reviewed products
 - Correlate discount levels with customer ratings
 - Create a clean, interactive Excel dashboard
+- Reccomendation for shareholders using the result from this analysis
+
+
+## Data Source
+
+-The dataset was scraped from Amazon product pages.
+-Each row represents a unique product with aggregated data:
+    -**Product metadata**: name, category, price, discount, rating.
+    -**Review data**: review IDs, titles, and contents (stored as comma-separated values).
+-Total rows: 1,466
+-Fields: 16 columns
+
 
 ## Project Structure
 
@@ -35,11 +47,33 @@ This project analyzes Amazon product data to uncover trends in pricing, discount
 13. Categories of products with the highest discounts
 14. Top 5 products by combined rating × reviews
 
-See full breakdown in [`docs/insights.md`](docs/insights.md)
+## Exploratory Data Analysis
+
+Analysis was carried out using PivotTables and dynamic charts in Excel. The dashboard explored:
+
+- Discounts by category
+- Product and review distribution
+- Revenue potential
+- Rating vs review engagement
+- Price impact analysis
+
+
+## Results
+
+| Metric                            | Value/Insight                              |
+|----------------------------------|--------------------------------------------|
+| **Total Products Analyzed**      | 1,466                                      |
+| **Total Potential Revenue**      | ₹7,976,911                                 |
+| **Highest Average Discount**     | HomeImprovement (58%)                      |
+| **Top Category by Review Count** | Electronics                                |
+| **Most Products in**             | <₹200 price range                          |
+| **Top Revenue Categories**       | Electronics, Computers, Home & Kitchen     |
+| **Top Rated Products**           | Found across multiple smaller categories   |
+| **Products with a discount of 50% and more** | 751.                             |
 
 ## Dashboard Preview
 
-![Dashboard Screenshot](visuals/top5_rated_products.png)
+
 
 ## Files
 
