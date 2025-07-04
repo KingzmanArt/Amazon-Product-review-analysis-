@@ -2,6 +2,8 @@ n# Amazon-Product-Review-analysis-
 
 This project analyzes Amazon product data to uncover trends in pricing, discounts, ratings, and reviews. The goal is to build an interactive Excel dashboard for business stakeholders to identify top performing products and evaluate pricing strategies.
 
+---
+
 ## Objectives
 
 - Analyze product discounts by category
@@ -10,6 +12,7 @@ This project analyzes Amazon product data to uncover trends in pricing, discount
 - Create a clean, interactive Excel dashboard
 - Reccomendation for shareholders using the result from this analysis
 
+---
 
 ## Data Source
 
@@ -20,6 +23,7 @@ This project analyzes Amazon product data to uncover trends in pricing, discount
 -Total rows: 1,466
 -Fields: 16 columns
 
+---
 
 ## Tools and Technique
 
@@ -31,7 +35,8 @@ This project analyzes Amazon product data to uncover trends in pricing, discount
   - String manipulation to count reviews
   - Grouping & binning for rating/discount/price ranges
   - Visual storytelling through charts
- 
+
+ ---
   
 ## Analysis Tasks
 
@@ -50,6 +55,9 @@ This project analyzes Amazon product data to uncover trends in pricing, discount
 13. Categories of products with the highest discounts
 14. Top 5 products by combined rating × reviews
 
+---
+
+
 ## Exploratory Data Analysis
 
 Analysis was carried out using PivotTables and dynamic charts in Excel. The dashboard explored:
@@ -63,6 +71,7 @@ Analysis was carried out using PivotTables and dynamic charts in Excel. The dash
 - Relationship between rating and discount  
 - Products with ≥50% discount
 
+---
 
 ## Results
 
@@ -81,15 +90,18 @@ Analysis was carried out using PivotTables and dynamic charts in Excel. The dash
 | **Top 5 Products by Score**      | Includes USB Cables, Smart Televisions     |
 
 
+---
 
 ## Dashboard Preview
 
 ![17516670135393921785962235320444](https://github.com/user-attachments/assets/d286d4e7-bf08-4301-9a6f-3af2d2508b6d)
 
 
+![17516672147042133871771944057047](https://github.com/user-attachments/assets/11af315f-f702-410c-9ccb-82c9c59dd55b)
 
 
 
+---
 
 ## Observations and Insights
 
@@ -123,6 +135,7 @@ These insights are crafted for business stakeholders to inform pricing, inventor
 - Majority of products have **fewer than 1,000 reviews**.
 - Electronics and Computers dominate total review volume, signaling strong visibility and buyer trust.
 
+---
 
 ## Recommendations
 
@@ -132,6 +145,8 @@ These insights are crafted for business stakeholders to inform pricing, inventor
 4. **Consider price repositioning** for products in oversaturated low-price segments.
 5. **Use high-rated products** as anchors or featured listings in promotional banners.
 
+---
+
 ## Limitations
 
 - **Review content was not analyzed semantically** (e.g., positive vs negative sentiment).
@@ -139,6 +154,7 @@ These insights are crafted for business stakeholders to inform pricing, inventor
 - **External factors** like brand popularity, availability, and delivery time were not considered.
 - **Potential revenue** is estimated and doesn’t account for returns, taxes, or conversion rates.
 
+---
 
 ## Contact
 
